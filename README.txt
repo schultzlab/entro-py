@@ -4,7 +4,7 @@ General remarks:
 
 	- It works for Python 3+
 	- API Matlab engine for python should be installed: https://uk.mathworks.com/help/matlab/matlab_external/install-the-matlab-engine-for-python.html
-	- It depends on numpy package and possibly matplotlib 
+	- It depends on numpy, os, mpmath and matplotlib in the test file 
 	- CDMentropy should be downloaded
 https://pillowlab.princeton.edu/code_CDMentropy.html
 	- The working directory of CDMentropy should be 
