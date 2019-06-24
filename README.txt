@@ -1,4 +1,4 @@
-Pyschultz Python library for Entropy and Mutual Information using various estimators:
+Entro-py Python library for Entropy and Mutual Information using various estimators:
 
 General remarks:
 
