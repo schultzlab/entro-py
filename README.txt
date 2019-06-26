@@ -7,8 +7,6 @@ General remarks:
 	- It depends on numpy, os, mpmath and matplotlib in the test file 
 	- CDMentropy should be downloaded
 https://pillowlab.princeton.edu/code_CDMentropy.html
-	- The working directory of CDMentropy should be 
-specified in the cdm.py script for both entries 
 
 How it works:
 
